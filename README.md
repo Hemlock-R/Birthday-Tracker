@@ -1,47 +1,25 @@
-#  HR-birthdays - Never miss a celebration again!
+# Celebra — Smart Birthday & Relationship Manager
 
-Live Link: **https://birthdays.onrender.com**
+> Never miss a birthday again. A beautiful, smart way to track friends, family, and important dates.
 
-HR-birthdays keeps track of birthdays across groups, manages celebration venues and event times, and coordinates celebrations effortlessly.
+🔗 **Live Demo:** https://celebra-birthday-manager.onrender.com
 
-###  Features
+[Celebra](https://img.shields.io/badge/Status-Live-success)
+[Relationships](https://img.shields.io/badge/Focus-Connection-blue)
 
-**Smart Adding:**
-- Full name + Phone Number with country code
-- Gender selection (sets card theme color & pronouns)
-- Age Group - tailors wish message automatically (Adult, Teen, etc.)
-- Full birth date (Month, Day & Year)
-- Category: Personal / Work / Church / Team / Friends
-- Optional Notes / Gift Ideas
-
-**Smart Dashboard:**
-- Upcoming Birthdays view with count
-- Search by name
-- Filter by category (All, Personal, Work, Church, Team, Friends)
-- Personalized cards with theme colors
-- Edit & Delete actions
-
-**UX:**
-- Clean, mobile-first UI with pink theme
-- Welcome hero section
-- Gift ideas display
+### ✨ Features
+- 🎂 Smart Birthday Tracking — Age calculation, days remaining
+- 🔔 Intelligent Reminders — Upcoming birthdays
+- 👥 Relationship Management — Family, Friends, Work
+- 🎁 Gift Ideas & History
+- 📅 Calendar View
+- 🔒 Privacy-First — All data stored locally on device
 
 ### 🛠️ Tech Stack
+HTML5, CSS3, Vanilla JavaScript, LocalStorage, Responsive Design
 
-- **Frontend:** HTML, CSS, JavaScript / React (update this)
-- **Backend:** Node.js / Express (deployed on Render)
-- **Database:** MongoDB / (what did you use?)
-- **Deployment:** Render - https://birthdays.onrender.com
-
-###  Screenshots
-
-![Home](./screenshots/home.jpg)
-![Add Birthday](./screenshots/add.jpg)
-
-###  Run Locally
-
+### 🚀 Run Locally
 ```bash
-git clone https://github.com/hemlock-r/hr-birthdays.git
-cd hr-birthdays
-npm install
-npm run dev
+git clone https://github.com/YOUR_USERNAME/celebra-birthday-manager.git
+cd celebra-birthday-manager
+# Just open index.html
