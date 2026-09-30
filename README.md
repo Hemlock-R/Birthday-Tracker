@@ -1,2 +1,2 @@
-# HR-birthdays
+# Birthday-Tracker 
 Birthday tracker
